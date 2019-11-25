@@ -1,11 +1,16 @@
 _repo: Cultural-Exchange_60743
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60743-h/images/cover.jpg
 creator:
   author:
     agent_name: Bone, J.F.
     gutenberg_agent_id: '51119'
     url: http://www.gutenberg.org/2009/agents/51119
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60743#Cultural-Exchange
 gutenberg_issued: '2019-11-20'
 gutenberg_type: Text
 identifiers:
